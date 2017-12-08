@@ -1,0 +1,2745 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE article PUBLIC "-//ES//DTD journal article DTD version 5.5.0//EN//XML"
+        "art550.dtd" [<!ENTITY mmc1 SYSTEM "mmc1" NDATA APPLICATION><!ENTITY gr1 SYSTEM "gr1" NDATA IMAGE><!ENTITY gr2 SYSTEM "gr2" NDATA IMAGE><!ENTITY gr3 SYSTEM "gr3" NDATA IMAGE><!ENTITY gr4 SYSTEM "gr4" NDATA IMAGE><!ENTITY gr5 SYSTEM "gr5" NDATA IMAGE>]>
+<article version="5.5" xml:lang="en" docsubtype="fla" xmlns:ce="http://www.w3.org/1999/xhtml">
+    <item-info><!--<STAGE version="S100.1">-->
+        <jid>AGEE</jid>
+        <aid>6047</aid>
+        <ce:pii>S0167-8809(17)30464-4</ce:pii>
+        <ce:doi>10.1016/j.agee.2017.10.018</ce:doi>
+        <ce:copyright type="full-transfer" year="2017">Publisher B.V.
+        </ce:copyright><!--<copyright-line uniqueId="102" xml:lang="en" license="0">&copy; 2017 Publisher B.V. All rights reserved.</copyright-line>--><!--<copyright-line uniqueId="102" xml:lang="de" license="0">&copy; 2017 Publisher B.V. Alle Rechte vorbehalten.</copyright-line>--><!--<copyright-line uniqueId="102" xml:lang="es" license="0">&copy; 2017 Publisher B.V. Todos los derechos reservados.</copyright-line>--><!--<copyright-line uniqueId="102" xml:lang="fr" license="0">&copy; 2017 Publisher B.V. Tous droits r&eacute;serv&eacute;s.</copyright-line>--><!--<copyright-line uniqueId="102" xml:lang="it" license="0">&copy; 2017 Publisher B.V. Tutti i diritti riservati.</copyright-line>--><!--<copyright-line uniqueId="102" xml:lang="pt" license="0">&copy; 2017 Publisher B.V. Todos os direitos reservados.</copyright-line>-->
+    </item-info>
+    <ce:floats>
+        <ce:figure id="fig0005">
+            <ce:label>Fig. 1</ce:label>
+            <ce:caption id="cap0005">
+                <ce:simple-para id="spar0005">Effect of the period of cultivation on concentrations of total P at a
+                    depth of 0&ndash;10<ce:hsp sp="0.25"/>cm in five soils. Where significant relationships were found,
+                    the soils were plotted on the left (a) and the coefficients presented in <ce:cross-ref id="crf0005"
+                                                                                                           refid="tbl0005">
+                        Table 1</ce:cross-ref>.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:alt-text id="at0140" role="short">Fig. 1</ce:alt-text>
+            <ce:link locator="gr1" xlink:href="pii:S0167880917304644/gr1" xlink:type="simple"
+                     xlink:role="http://data.Publisher.com/vocabulary/PublisherContentTypes/23.4"/>
+        </ce:figure>
+        <ce:figure id="fig0010">
+            <ce:label>Fig. 2</ce:label>
+            <ce:caption id="cap0010">
+                <ce:simple-para id="spar0010">Effect of the period of cultivation on concentrations of organic P (a, b),
+                    total inorganic P (c, d), and bicarbonate-extractable P (e, f) at a depth of 0&ndash;10<ce:hsp
+                            sp="0.25"/>cm in five soils. Where significant relationships were found, the soils were
+                    plotted on the left (a, c, e) and the coefficients presented in <ce:cross-ref id="crf0010"
+                                                                                                  refid="tbl0005">Table
+                        1</ce:cross-ref>.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:alt-text id="at0145" role="short">Fig. 2</ce:alt-text>
+            <ce:link locator="gr2" xlink:href="pii:S0167880917304644/gr2" xlink:type="simple"
+                     xlink:role="http://data.Publisher.com/vocabulary/PublisherContentTypes/23.4"/>
+        </ce:figure>
+        <ce:figure id="fig0015">
+            <ce:label>Fig. 3</ce:label>
+            <ce:caption id="cap0015">
+                <ce:simple-para id="spar0015">Effect of the period of cultivation on concentrations of organic P in the
+                    Waco soil at depths ranging from 0 to 0.1<ce:hsp sp="0.25"/>m to 0.9&ndash;1.2<ce:hsp sp="0.25"/>m.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:alt-text id="at0150" role="short">Fig. 3</ce:alt-text>
+            <ce:link locator="gr3" xlink:href="pii:S0167880917304644/gr3" xlink:type="simple"
+                     xlink:role="http://data.Publisher.com/vocabulary/PublisherContentTypes/23.4"/>
+        </ce:figure>
+        <ce:figure id="fig0020">
+            <ce:label>Fig. 4</ce:label>
+            <ce:caption id="cap0020">
+                <ce:simple-para id="spar0020">Effect of the duration of cultivation on the (a) C/P ratios and (b)
+                    organic C concentrations of five soils. (c,d) The relationship between organic P and organic C
+                    concentrations, with significant relationships shown in (c).
+                </ce:simple-para>
+            </ce:caption>
+            <ce:alt-text id="at0155" role="short">Fig. 4</ce:alt-text>
+            <ce:link locator="gr4" xlink:href="pii:S0167880917304644/gr4" xlink:type="simple"
+                     xlink:role="http://data.Publisher.com/vocabulary/PublisherContentTypes/23.4"/>
+        </ce:figure>
+        <ce:figure id="fig0025">
+            <ce:label>Fig. 5</ce:label>
+            <ce:caption id="cap0025">
+                <ce:simple-para id="spar0025">(a) Yield and (b) grain tissue P concentration as influenced by the period
+                    of cultivation. The relationship between grain tissue P concentration and concentration of (c) soil
+                    organic P and (d) soil inorganic P. Linear regressions were fitted where significant relationships
+                    were found.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:alt-text id="at0160" role="short">Fig. 5</ce:alt-text>
+            <ce:link locator="gr5" xlink:href="pii:S0167880917304644/gr5" xlink:type="simple"
+                     xlink:role="http://data.Publisher.com/vocabulary/PublisherContentTypes/23.4"/>
+        </ce:figure>
+        <ce:table id="tbl0005" frame="topbot" rowsep="0" colsep="0">
+            <ce:label>Table 1</ce:label>
+            <ce:caption id="cap0030">
+                <ce:simple-para id="spar0030">Initial values (P<ce:inf>o</ce:inf>),
+                    equilibrium<!--<query id="Q5">Please check the presentation of Tables 1 and 2 and correct if necessary.</query>-->
+                    values (P<ce:inf>e</ce:inf>), overall rate of loss (k<ce:inf>c</ce:inf>) and half-life of loss
+                    (t<ce:inf>1/2</ce:inf>) of P from the top layer (0&ndash;0.1<ce:hsp sp="0.25"/>m) of five soils.
+                    Where a significant relationship was found using linear regression, values are presented for the
+                    average annual decrease in P (a).
+                </ce:simple-para>
+            </ce:caption>
+            <ce:alt-text id="at0165" role="short">Table 1</ce:alt-text>
+            <tgroup cols="9">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <colspec colname="col3"/>
+                <colspec colname="col4"/>
+                <colspec colname="col5"/>
+                <colspec colname="col6"/>
+                <colspec colname="col7"/>
+                <colspec colname="col8"/>
+                <colspec colname="col9"/>
+                <thead valign="top">
+                    <row rowsep="1">
+                        <entry align="left">P pool</entry>
+                        <entry align="left">Soil</entry>
+                        <entry align="left">Period of cultivation (years)</entry>
+                        <entry align="left">
+                            <ce:italic>P
+                                <ce:inf>o</ce:inf>
+                            </ce:italic>
+                            (mg<ce:hsp sp="0.25"/>kg<ce:sup>&minus;1</ce:sup>)
+                        </entry>
+                        <entry align="left">
+                            <ce:italic>P
+                                <ce:inf>e</ce:inf>
+                            </ce:italic>
+                            (mg<ce:hsp sp="0.25"/>kg<ce:sup>&minus;1</ce:sup>)
+                        </entry>
+                        <entry align="left">
+                            <ce:italic>k
+                                <ce:inf>c</ce:inf>
+                            </ce:italic>
+                            (year<ce:sup>&minus;1</ce:sup>)
+                        </entry>
+                        <entry align="left">
+                            <ce:italic>t
+                                <ce:inf>1/2</ce:inf>
+                            </ce:italic>
+                            (year)
+                        </entry>
+                        <entry align="left">
+                            <ce:italic>a</ce:italic>
+                            (mg<ce:hsp sp="0.25"/>kg<ce:sup>&minus;1</ce:sup>)
+                        </entry>
+                        <entry align="left">
+                            <ce:italic>R
+                                <ce:sup>2</ce:sup>
+                            </ce:italic>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry align="left">Total</entry>
+                        <entry align="left">Thallon</entry>
+                        <entry align="left">2&ndash;23</entry>
+                        <entry align="left">484</entry>
+                        <entry align="left">249</entry>
+                        <entry align="left">0.086</entry>
+                        <entry align="left">8.1</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">0.775</entry>
+                    </row>
+                    <row>
+                        <entry align="left">Organic</entry>
+                        <entry align="left">Cecilvale</entry>
+                        <entry align="left">3&ndash;35</entry>
+                        <entry align="left">143</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">1.28</entry>
+                        <entry align="left">0.303</entry>
+                    </row>
+                    <row>
+                        <entry align="left">Organic</entry>
+                        <entry align="left">Riverview</entry>
+                        <entry align="left">0.5&ndash;20</entry>
+                        <entry align="left">89.5</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">0.94</entry>
+                        <entry align="left">0.552</entry>
+                    </row>
+                    <row>
+                        <entry align="left">Organic</entry>
+                        <entry align="left">Thallon</entry>
+                        <entry align="left">2&ndash;23</entry>
+                        <entry align="left">114</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">1.11</entry>
+                        <entry align="left">0.317</entry>
+                    </row>
+                    <row>
+                        <entry align="left">Organic</entry>
+                        <entry align="left">Waco</entry>
+                        <entry align="left">1&ndash;70</entry>
+                        <entry align="left">144</entry>
+                        <entry align="left">91.6</entry>
+                        <entry align="left">0.097</entry>
+                        <entry align="left">7.1</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">0.443</entry>
+                    </row>
+                    <row>
+                        <entry align="left">Inorganic</entry>
+                        <entry align="left">Thallon</entry>
+                        <entry align="left">2&ndash;23</entry>
+                        <entry align="left">330</entry>
+                        <entry align="left">102</entry>
+                        <entry align="left">0.045</entry>
+                        <entry align="left">15.4</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">0.593</entry>
+                    </row>
+                    <row>
+                        <entry align="left">Bicarbonate</entry>
+                        <entry align="left">Thallon</entry>
+                        <entry align="left">2&ndash;23</entry>
+                        <entry align="left">31.9</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">1.08</entry>
+                        <entry align="left">0.629</entry>
+                    </row>
+                    <row>
+                        <entry align="left">Bicarbonate</entry>
+                        <entry align="left">Waco</entry>
+                        <entry align="left">1&ndash;70</entry>
+                        <entry align="left">47.5</entry>
+                        <entry align="left">22.4</entry>
+                        <entry align="left">0.117</entry>
+                        <entry align="left">5.9</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">0.637</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </ce:table>
+        <ce:table id="tbl0010" frame="topbot" rowsep="0" colsep="0">
+            <ce:label>Table 2</ce:label>
+            <ce:caption id="cap0035">
+                <ce:simple-para id="spar0035">Yield and removal of P in wheat grain as related to decreases in soil
+                    total P and soil organic P (assuming removal from 0 to 10<ce:hsp sp="0.25"/>cm only). Where
+                    significant effects were found (NS, not significant), values presented are the average annual
+                    decrease calculated from the regressions (<ce:cross-ref id="crf0015" refid="tbl0005">Table
+                        1</ce:cross-ref>), using the bulk density values (Supplementary Table S1). For organic P in
+                    Cecilvale, Riverview, and Thallon, the relationship was linear (<ce:cross-ref id="crf0020"
+                                                                                                  refid="fig0010">Fig.
+                        2</ce:cross-ref>a) and hence the predicted decrease in organic P did not change over time. The
+                    decreases in total and organic P were calculated using the bulk densities shown in Supplementary
+                    Table S1.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:alt-text id="at0170" role="short">Table 2</ce:alt-text>
+            <tgroup cols="10">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <colspec colname="col3"/>
+                <colspec colname="col4"/>
+                <colspec colname="col5"/>
+                <colspec colname="col6"/>
+                <colspec colname="col7"/>
+                <colspec colname="col8"/>
+                <colspec colname="col9"/>
+                <colspec colname="col10"/>
+                <thead valign="top">
+                    <row>
+                        <entry align="left">Soil</entry>
+                        <entry align="left">Maximum cultivation (years)</entry>
+                        <entry align="left" rowsep="1" namest="col3" nameend="col4">Removal of P</entry>
+                        <entry align="left" rowsep="1" namest="col5" nameend="col7">Decrease in soil total P (kg<ce:hsp
+                                sp="0.25"/>ha
+                            <ce:sup>&minus;1</ce:sup>
+                            y<ce:sup>&minus;1</ce:sup>)
+                        </entry>
+                        <entry align="left" rowsep="1" namest="col8" nameend="col10">Decrease in soil organic P (kg
+                            <ce:hsp sp="0.25"/>ha
+                            <ce:sup>&minus;1</ce:sup>
+                            <ce:hsp sp="0.25"/>y<ce:sup>&minus;1</ce:sup>)
+                        </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry align="left"/>
+                        <entry align="left"/>
+                        <entry align="left">Average grain yield (t&thinsp;ha
+                            <ce:sup>&minus;1</ce:sup>
+                            <ce:hsp sp="0.25"/>y<ce:sup>&minus;1</ce:sup>)
+                        </entry>
+                        <entry align="left">P removed in grain (kg<ce:hsp sp="0.25"/>ha
+                            <ce:sup>&minus;1</ce:sup>
+                            y<ce:sup>&minus;1</ce:sup>)
+                        </entry>
+                        <entry align="left">Average</entry>
+                        <entry align="left">Initial</entry>
+                        <entry align="left">Final</entry>
+                        <entry align="left">Average</entry>
+                        <entry align="left">Initial</entry>
+                        <entry align="left">Final</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry align="left">Billa Billa</entry>
+                        <entry align="left">25</entry>
+                        <entry align="left">1.4</entry>
+                        <entry align="left">5.1</entry>
+                        <entry align="left">NS</entry>
+                        <entry align="left">NS</entry>
+                        <entry align="left">NS</entry>
+                        <entry align="left">NS</entry>
+                        <entry align="left">NS</entry>
+                        <entry align="left">NS</entry>
+                    </row>
+                    <row>
+                        <entry align="left">Cecilvale</entry>
+                        <entry align="left">35</entry>
+                        <entry align="left">1.9</entry>
+                        <entry align="left">5.5</entry>
+                        <entry align="left">NS</entry>
+                        <entry align="left">NS</entry>
+                        <entry align="left">NS</entry>
+                        <entry align="left">1.3</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">&ndash;</entry>
+                    </row>
+                    <row>
+                        <entry align="left">Riverview</entry>
+                        <entry align="left">20</entry>
+                        <entry align="left">0.55</entry>
+                        <entry align="left">1.6</entry>
+                        <entry align="left">NS</entry>
+                        <entry align="left">NS</entry>
+                        <entry align="left">NS</entry>
+                        <entry align="left">1.2</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">&ndash;</entry>
+                    </row>
+                    <row>
+                        <entry align="left">Thallon</entry>
+                        <entry align="left">23</entry>
+                        <entry align="left">1.3</entry>
+                        <entry align="left">4.7</entry>
+                        <entry align="left">8.4</entry>
+                        <entry align="left">18</entry>
+                        <entry align="left">2.8</entry>
+                        <entry align="left">1.1</entry>
+                        <entry align="left">&ndash;</entry>
+                        <entry align="left">&ndash;</entry>
+                    </row>
+                    <row>
+                        <entry align="left">Waco</entry>
+                        <entry align="left">70</entry>
+                        <entry align="left">2.4</entry>
+                        <entry align="left">9.3</entry>
+                        <entry align="left">NS</entry>
+                        <entry align="left">NS</entry>
+                        <entry align="left">NS</entry>
+                        <entry align="left">0.64</entry>
+                        <entry align="left">4.0</entry>
+                        <entry align="left">0.005</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </ce:table>
+    </ce:floats>
+    <head>
+        <ce:title id="tit0005">Effects of long-term cultivation on phosphorus (P) in five low-input, subtropical
+            Australian soils
+        </ce:title>
+        <ce:author-group id="aug0005">
+            <ce:author id="aut0005" author-id="S0167880917304644-f72332cd27d0734ee7a114b599ca7f63">
+                <ce:given-name>Peter M.</ce:given-name>
+                <ce:surname>
+                    Kopittke<!--<query id="Q1">The author names have been tagged as given names and surnames (surnames are highlighted in teal color). Please confirm if they have been identified correctly.</query>--></ce:surname>
+                <ce:cross-ref id="crf0025" refid="aff0005">
+                    <ce:sup>a</ce:sup>
+                </ce:cross-ref>
+                <ce:cross-ref id="crf0030" refid="cor0005">
+                    <ce:sup>&#x204e;</ce:sup>
+                </ce:cross-ref>
+                <ce:e-address id="eadd0005" type="email" xlink:href="mailto:p.kopittke@uq.edu.au">p.kopittke@uq.edu.au
+                </ce:e-address>
+            </ce:author>
+            <ce:author id="aut0010" author-id="S0167880917304644-48bb511c9073a0dde9a79836aa7bb921">
+                <ce:given-name>Ram C.</ce:given-name>
+                <ce:surname>Dalal</ce:surname>
+                <ce:cross-ref id="crf0035" refid="aff0005">
+                    <ce:sup>a</ce:sup>
+                </ce:cross-ref>
+            </ce:author>
+            <ce:author id="aut0015" author-id="S0167880917304644-b8489bdb2d47e2055f2a8f7e86d4a589">
+                <ce:given-name>Peng</ce:given-name>
+                <ce:surname>Wang</ce:surname>
+                <ce:cross-ref id="crf0040" refid="aff0010">
+                    <ce:sup>b</ce:sup>
+                </ce:cross-ref>
+                <ce:cross-ref id="crf0045" refid="aff0015">
+                    <ce:sup>c</ce:sup>
+                </ce:cross-ref>
+            </ce:author>
+            <ce:author id="aut0020" author-id="S0167880917304644-46bdb8db2aa675fe79e7cc0e9a1c70c2">
+                <ce:given-name>Neal W.</ce:given-name>
+                <ce:surname>Menzies</ce:surname>
+                <ce:cross-ref id="crf0050" refid="aff0005">
+                    <ce:sup>a</ce:sup>
+                </ce:cross-ref>
+            </ce:author>
+            <ce:affiliation id="aff0005" affiliation-id="S0167880917304644-daab90b31d589397b25419163c622117">
+                <ce:label>a</ce:label>
+                <ce:textfn>The University of Queensland, School of Agriculture and Food Sciences, St
+                    Lucia, <!--<state>-->Queensland<!--</state>-->, 4072, <!--<country>-->
+                    Australia<!--</country>--></ce:textfn>
+                <sa:affiliation>
+                    <sa:organization>The University of Queensland</sa:organization>
+                    <sa:organization>School of Agriculture and Food Sciences</sa:organization>
+                    <sa:city>St Lucia</sa:city>
+                    <sa:state>Queensland</sa:state>
+                    <sa:postal-code>4072</sa:postal-code>
+                    <sa:country>Australia</sa:country>
+                </sa:affiliation>
+            </ce:affiliation>
+            <ce:affiliation id="aff0010" affiliation-id="S0167880917304644-46b32b80e03a86863c18531374d8f649">
+                <ce:label>b</ce:label>
+                <ce:textfn>Nanjing Agricultural University, College of Resources and Environmental
+                    Sciences, <!--<city>-->Nanjing<!--</city>-->, <!--<state>-->Jiangsu<!--</state>-->,
+                    210095, <!--<country>-->China<!--</country>--></ce:textfn>
+                <sa:affiliation>
+                    <sa:organization>Nanjing Agricultural University</sa:organization>
+                    <sa:organization>College of Resources and Environmental Sciences</sa:organization>
+                    <sa:city>Nanjing</sa:city>
+                    <sa:state>Jiangsu</sa:state>
+                    <sa:postal-code>210095</sa:postal-code>
+                    <sa:country>China</sa:country>
+                </sa:affiliation>
+            </ce:affiliation>
+            <ce:affiliation id="aff0015" affiliation-id="S0167880917304644-d0f2b73504ef03369e24565f46febc73">
+                <ce:label>c</ce:label>
+                <ce:textfn>The University of Queensland, Centre for Soil and Environmental Sciences, School of
+                    Agriculture and Food Sciences, St Lucia, <!--<state>-->Queensland<!--</state>-->,
+                    4072, <!--<country>-->Australia<!--</country>--></ce:textfn>
+                <sa:affiliation>
+                    <sa:organization>The University of Queensland</sa:organization>
+                    <sa:organization>Centre for Soil and Environmental Sciences</sa:organization>
+                    <sa:organization>School of Agriculture and Food Sciences</sa:organization>
+                    <sa:city>St Lucia</sa:city>
+                    <sa:state>Queensland</sa:state>
+                    <sa:postal-code>4072</sa:postal-code>
+                    <sa:country>Australia</sa:country>
+                </sa:affiliation>
+            </ce:affiliation>
+            <ce:correspondence id="cor0005">
+                <ce:label>&#x204e;</ce:label>
+                <ce:text>Corresponding author.</ce:text>
+            </ce:correspondence>
+        </ce:author-group>
+        <ce:date-received day="31" month="8" year="2017"/>
+        <ce:date-revised day="20" month="10" year="2017"/>
+        <ce:date-accepted day="23" month="10" year="2017"/>
+        <ce:abstract id="abs0005" class="author-highlights">
+            <ce:section-title id="sect0005">Highlights</ce:section-title>
+            <ce:abstract-sec id="abst0005">
+                <ce:simple-para id="spar0040">
+                    <ce:list id="lis0005">
+                        <ce:list-item id="lsti0005">
+                            <ce:label>&bull;</ce:label>
+                            <ce:para id="par0005">We examined the impact of agricultural cropping for up to 70<ce:hsp
+                                    sp="0.25"/>y on soil P.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="lsti0010">
+                            <ce:label>&bull;</ce:label>
+                            <ce:para id="par0010">Inorganic P remained constant but organic P decreased by up to 36%.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="lsti0015">
+                            <ce:label>&bull;</ce:label>
+                            <ce:para id="par0015">The C/P ratio remained constant despite the decrease in organic P.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="lsti0020">
+                            <ce:label>&bull;</ce:label>
+                            <ce:para id="par0020">The rate of P removal exceeded fertilizer inputs.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:simple-para>
+            </ce:abstract-sec>
+        </ce:abstract>
+        <ce:abstract id="abs0010">
+            <ce:section-title id="sect0010">Abstract</ce:section-title>
+            <ce:abstract-sec id="abst0010">
+                <ce:simple-para id="spar0045">Despite the importance of P for cropping, there remains uncertainty
+                    regarding the effects of long-term cropping on P behaviour in soils. Using five soils (Billa Billa,
+                    Cecilvale, Riverview, Thallon, and Waco) from subtropical Australia cropped for &le;70<ce:hsp
+                            sp="0.25"/>y with low rates of P-fertilizer inputs, changes in soil P (organic, inorganic,
+                    and total) were assessed and related to P removal in wheat grain. For four of the five soils,
+                    concentrations of organic P decreased significantly with increasing period of cropping, decreasing
+                    between 20 and 36%. In contrast, concentrations of inorganic P generally remained relatively
+                    constant. Despite the decrease in organic P, the C/P ratio remained relatively constant in all five
+                    soils (average of 99), indicating that organic P is protected within the soil organic matter in a
+                    manner similar to the organic C. Furthermore, although increasing period of cropping decreased soil
+                    organic P concentrations, grain P concentrations decreased significantly only for Billa Billa and
+                    Thallon. Finally, although the rate of P removal in grain was low (1.6 to 9.3<ce:hsp sp="0.25"/>kg
+                    <ce:hsp sp="0.25"/>ha
+                    <ce:sup>&minus;1</ce:sup>
+                    <ce:hsp sp="0.25"/>y<ce:sup>&minus;1</ce:sup>), the rate of removal exceeded inputs from
+                    P-containing fertilizers. Thus, there is a need to consider the long-term P-fertilization to ensure
+                    adequate P nutrition of the crops. This study provides important information regarding changes in P
+                    within long-term cropping systems and will assist in their sustainable management.
+                </ce:simple-para>
+            </ce:abstract-sec>
+        </ce:abstract>
+        <ce:keywords id="kwd0005" class="keyword">
+            <ce:section-title id="sect0015">Keywords</ce:section-title>
+            <ce:keyword id="kw0005">
+                <ce:text>Alfisol</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kw0010">
+                <ce:text>Inorganic P</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kw0015">
+                <ce:text>Lixisol</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kw0020">
+                <ce:text>Organic P</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kw0025">
+                <ce:text>Vertisol</ce:text>
+            </ce:keyword>
+        </ce:keywords>
+    </head>
+    <body>
+        <ce:sections>
+            <ce:section id="sec0005" role="introduction">
+                <ce:label>1</ce:label>
+                <ce:section-title id="sect0020">Introduction</ce:section-title>
+                <ce:para id="par0025">An estimated two-thirds of soils worldwide contain insufficient P for optimal
+                    plant growth (<ce:cross-refs id="crfs0005" refid="bib0010 bib0040">Batjes, 1997; Cakmak,
+                        2002</ce:cross-refs>). Furthermore, in Australia (and many other tropical and subtropical
+                    regions), issues of P deficiency are even more pronounced due to the high degree of weathering in
+                    ancient soils (<ce:cross-ref id="crf0055" refid="bib0200">Walker and Syers, 1976</ce:cross-ref>). As
+                    a result of the inherently low concentrations of P, the addition of P as fertilizers is essential to
+                    maintain and increase agricultural production. Currently, an estimated 261 million tons of phosphate
+                    rock are used annually for crop production (<ce:cross-ref id="crf0060" refid="bib0195">U.S.
+                        Geological Survey, 2017</ce:cross-ref>). Furthermore, it is estimated that demand for P will
+                    increase by 50&ndash;100% by the year 2050 due to increasing demand for food production and shifts
+                    in diet compositions (<ce:cross-refs id="crfs0010" refid="bib0170 bib0080">Steen, 1998; EFMA,
+                        2000</ce:cross-refs>). Of the 14 nutrients that are essential for plants, global reserves of P
+                    are the smallest (<ce:cross-ref id="crf0065" refid="bib0085">Gilbert, 2009</ce:cross-ref>) with the
+                    majority of these in a single country, Morocco. As a result, the use of the remaining P reserves
+                    must be efficient, with supply of P fertilizers influenced both by scarcity and political
+                    instability.<!--<query id="Q2"> &ldquo;Your article is registered as a regular item and is being processed for inclusion in a regular issue of the journal. If this is NOT correct and your article belongs to a Special Issue/Collection please contact s.ananthakrishnan@Publisher.com immediately prior to returning your corrections.&rdquo;</query>-->
+                </ce:para>
+                <ce:para id="par0030">To achieve this increased efficiency, a better understanding of how agricultural
+                    cropping practices influence the behaviour of soil P is needed, particularly in low-input systems.
+                    Low-input agricultural systems are defined here as those with low external inputs, particularly
+                    fertilizers. For example, yields in many cropping systems of Australia are often limited by a water
+                    deficit, with external inputs (including fertilizer) also low as a result. Despite the importance of
+                    P and its fertilization for global food production, there remains a lack of a detailed understanding
+                    about how P changes in soils over time as a result of cropping practices in long-term agricultural
+                    systems (<ce:cross-ref id="crf0070" refid="bib0100">Kopittke et al., 2017</ce:cross-ref>). This lack
+                    of understanding hinders ongoing research efforts to improve the efficiency of P usage and to
+                    increase crop productivity in P-limited soils. Of particular interest to the present study, despite
+                    the inherently low P concentrations of many soils, several studies have shown that long-term
+                    cultivation and product removal have resulted in further substantial reductions in soil P
+                    concentrations (<ce:cross-refs id="crfs0015"
+                                                   refid="bib0090 bib0190 bib0015 bib0070 bib0115 bib0100">Hedley et
+                        al., 1982; Tiessen et al., 1983; Beck and Sanchez, 1994; Dalal, 1997; Motavalli and Miles, 2002;
+                        Kopittke et al., 2017</ce:cross-refs>). Generally, these previous studies have found that
+                    long-term cropping results in appreciable decreases in organic P concentrations, whilst inorganic P
+                    often (but not always) remains relatively constant. For example, <ce:cross-ref id="crf0075"
+                                                                                                   refid="bib0035">
+                        Bowman et al. (1990)
+                    </ce:cross-ref> found that after cropping for 60<ce:hsp sp="0.25"/>y, organic P concentrations
+                    decreased by 47% whilst inorganic P concentrations decreased by only 11%. In the present study, we
+                    extend these previous findings by examining long-term changes in five low-input subtropical cropping
+                    systems of Australia.
+                </ce:para>
+                <ce:para id="par0035">Primary soil minerals, mainly apatites, are the original source of 95% or more of
+                    the P in soils, with this P released during mineral dissolution (<ce:cross-ref id="crf0080"
+                                                                                                   refid="bib0180">
+                        Stevenson, 1999</ce:cross-ref>). As a result, few of these primary minerals are found in highly
+                    weathered soils. Rather, the majority of P in weathered soils is associated either with secondary
+                    soil minerals or with soil organic matter &ndash; these two pools accounting for 98&ndash;99% in
+                    weathered soils. The relative importance of these two pools (i.e. organic P and inorganic P
+                    associated with secondary minerals) varies depending upon soil properties and mineralogy, with
+                    between 20 and 80% present as organic P and 20&ndash;80% present as inorganic P in secondary
+                    minerals (<ce:cross-ref id="crf0085" refid="bib0180">Stevenson, 1999</ce:cross-ref>). The relative
+                    importance of changes in these organic and inorganic fractions upon long-term cultivation remains
+                    unclear, with few studies examining these changes in low-input systems, particularly in tropical and
+                    subtropical soils (<ce:cross-refs id="crfs0020" refid="bib0090 bib0190 bib0070 bib0115 bib0050">
+                        Hedley et al., 1982; Tiessen et al., 1983; Dalal, 1997; Motavalli and Miles, 2002; Crews and
+                        Brookes, 2014</ce:cross-refs>). In an interesting study, <ce:cross-ref id="crf0090"
+                                                                                               refid="bib0105">MacDonald
+                        et al. (2012)
+                    </ce:cross-ref> utilized a meta-analysis and reported that abandonment of agricultural land
+                    generally resulted in increases in soil P concentrations.
+                </ce:para>
+                <ce:para id="par0040">The present study aimed to examine the effects of long-term (&le;70<ce:hsp
+                        sp="0.25"/>y) cultivation and product removal on concentrations of P in soil and wheat grain
+                    from five systems in sub-tropical Australia. These five soils received either no P fertilizer or it
+                    was applied at low rates. Examining the surface 0&ndash;10<ce:hsp sp="0.25"/>cm of the soil profile,
+                    changes in total P, organic P, inorganic P, and plant-available P (estimated using
+                    bicarbonate-extractable P) were assessed. These changes in organic P were also related to those of
+                    organic C. Finally, consideration was given to the concentration of P in wheat grain and the
+                    magnitude with which it is exported from the agricultural systems. This information is important in
+                    understanding the impacts of long-term cropping systems on soil nutrient reserves and will assist in
+                    the sustainable management of these soils.
+                </ce:para>
+            </ce:section>
+            <ce:section id="sec0010" role="materials-methods">
+                <ce:label>2</ce:label>
+                <ce:section-title id="sect0025">Materials and methods</ce:section-title>
+                <ce:section id="sec0015">
+                    <ce:label>2.1</ce:label>
+                    <ce:section-title id="sect0030">Soil collection and description</ce:section-title>
+                    <ce:para id="par0045">
+                        Soils <!--<query id="Q3">Please check the hierarchy of the section headings.</query>-->were
+                        collected from five locations in southern Queensland (Australia), with the locations being
+                        called Billa Billa, Cecilvale, Riverview, Thallon, and Waco. Mean annual rainfall ranges from
+                        480<ce:hsp sp="0.25"/>mm for Thallon to 670<ce:hsp sp="0.25"/>mm for Cecilvale. A detailed
+                        history of all five sites is provided by <ce:cross-ref id="crf0095" refid="bib0055">Dalal and
+                        Mayer (1986a)</ce:cross-ref>, but is briefly summarized here. Of the winter crops grown at these
+                        five sites, 90% were wheat (<ce:italic>Triticum aestivum</ce:italic> see later), with 90% of
+                        summer crops being sorghum (<ce:italic>Sorghum bicolor</ce:italic>). The average number of
+                        winter crops and summer crops each year was 0.8 (winter) and 0.1 (summer) at Billa Billa, 0.6
+                        and 0.2 at Cecilvale, 0.5 and 0.2 at Riverview, 0.6 and 0.1 at Thallon, and 0.6 and 0.3 at Waco.
+                        At all five sites, applications of P-containing fertilizers were low, ranging from 0 to 7.7
+                        <ce:hsp sp="0.25"/>kg<ce:hsp sp="0.25"/>ha
+                        <ce:sup>&minus;1</ce:sup>
+                        <ce:hsp sp="0.25"/>y
+                        <ce:sup>&minus;1</ce:sup>
+                        (Supplementary Table S1). The P-fertilizers were typically applied as monoammonium phosphate.
+                        Soils were generally cultivated using a chisel plough, sweep plough and scarifier, or
+                        occasionally a disc plough. The average number of cultivation operations per year was 4.8 for
+                        Billa Billa, 4.9 for Cecilvale, 2.9 for Riverview, 3.0 for Thallon, and 5.0 for Waco.
+                    </ce:para>
+                    <ce:para id="par0050">For each location, samples were collected from various nearby fields that
+                        differed in the length of time since being first cultivated. Thus, these samples represented
+                        soils that had been cropped for &le;70<ce:hsp sp="0.25"/>y, with samples collected from a total
+                        of 64 individual cropped sites across the five locations (being 14 sites for Billa Billa, 12 for
+                        Cecilvale, 11 for Riverview, 14 for Thallon, and 13 for Waco). Samples were also collected from
+                        nearby undisturbed (virgin) sites with native vegetation, with up to seven sites used for the
+                        undisturbed samples at each of the five locations. (Multiple sites were used for the undisturbed
+                        samples to ensure that all samples collected from cultivated sites had an adjacent undisturbed
+                        site for comparison). Unless otherwise stated, all data presented hereafter for the undisturbed
+                        sites (0<ce:hsp sp="0.25"/>y cultivation) is the average across the &le;7 sites at each
+                        location. In total, 94 individual sites were sampled, being 64 cropped sites and 30 undisturbed
+                        sites.
+                    </ce:para>
+                    <ce:para id="par0055">At each individual site, samples were collected across a 0.1<ce:hsp
+                            sp="0.25"/>ha area using a 5
+                        <ce:hsp sp="0.25"/>&times;<ce:hsp sp="0.25"/>8<ce:hsp sp="0.25"/>m grid at a depth of 0 to 0.1
+                        <ce:hsp sp="0.25"/>m. A total of 25 samples were collected from each of the 94 sites (i.e. 2350
+                        samples in total), with five of these samples then mixed to form a single composite sample
+                        (yielding a total of five composite samples for each of the 94 sites). Upon collection, the soil
+                        samples were placed in plastic bags and stored at 4
+                        <ce:hsp sp="0.25"/>&deg;C until further processing. Thereafter, the soil samples were dried at
+                        25
+                        <ce:hsp sp="0.25"/>&deg;C in an oven, ground to pass a 2<ce:hsp sp="0.25"/>mm sieve, and stored
+                        in sealed plastic containers at room temperature until analysis. Samples of wheat straw and
+                        grain were collected where possible.
+                    </ce:para>
+                    <ce:para id="par0060">The soils have been described in detail previously (<ce:cross-refs
+                            id="crfs0025" refid="bib0055 bib0095">Dalal and Mayer, 1986a; Kopittke et al.,
+                        2016</ce:cross-refs>), with some properties presented here (Supplementary Table S1). All soils
+                        were Vertisols (Vertisols in the World Reference Base classification system) other than
+                        Riverview which was an Alfisol (Lixisol in the World Reference Base classification system). The
+                        parent material at Billa Billa is calcareous sediments, at Cecilvale it is clay alluvium derived
+                        from basalt and sandstone, at Riverview it is weathered ferruginized sediments, at Thallon it is
+                        Quaternary argillaceous alluvium, and at Waco it is clay alluvium derived from basalt. For
+                        undisturbed soils, pH values were near-neutral or alkaline, organic C contents were modest (0.78&ndash;1.7%),
+                        with clay content highest for Waco (72%) and lowest for Riverview (18%).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="sec0020">
+                    <ce:label>2.2</ce:label>
+                    <ce:section-title id="sect0035">Soil and plant analyses</ce:section-title>
+                    <ce:para id="par0065">Estimates of available P concentrations were made using sodium bicarbonate
+                        (<ce:cross-refs id="crfs0030" refid="bib0045 bib0140">Colwell, 1963; Rayment and Lyons,
+                            2011</ce:cross-refs>). Organic P was determined as described by <ce:cross-ref id="crf0100"
+                                                                                                          refid="bib0150">
+                            Saunders and Williams (1955)</ce:cross-ref>, total P concentrations were determined using
+                        X-ray fluorescence (<ce:cross-ref id="crf0105" refid="bib0140">Rayment and Lyons,
+                            2011</ce:cross-ref>), and inorganic P was determined as the difference between total and
+                        organic P. The organic C concentration was determined using the Walkley-Black method. After
+                        drying at 65
+                        <ce:hsp sp="0.25"/>&deg;C for 48<ce:hsp sp="0.25"/>h, plant tissues were digested in
+                        concentrated HNO<ce:inf>3</ce:inf> before analysis. The concentrations of P in the soil extracts
+                        and the plant digests were assessed colorimetrically using the ascorbic acid method
+                        (<ce:cross-ref id="crf0110" refid="bib0120">Murphy and Riley, 1962</ce:cross-ref>).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="sec0025">
+                    <ce:label>2.3</ce:label>
+                    <ce:section-title id="sect0040">Statistical analyses</ce:section-title>
+                    <ce:para id="par0070">Data were analysed using SYSTAT 13.1 (Cranes Software, India), with changes in
+                        P concentrations assessed using the first-order kinetic model, similar to that for N
+                        (<ce:cross-ref id="crf0115" refid="bib0165">Stanford and Smith, 1972</ce:cross-ref>),
+                        <ce:display>
+                            <ce:formula id="eq0005">
+                                <ce:label>(1)</ce:label>
+                                <ce:chem>P
+                                    <ce:inf>t</ce:inf>
+                                    <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>P<ce:inf>e</ce:inf> + (P
+                                    <ce:inf>0</ce:inf>&ndash;P<ce:inf>e</ce:inf>)exp(-kt)
+                                </ce:chem>
+                            </ce:formula>
+                        </ce:display>
+                        where
+                        <ce:italic>P
+                            <ce:inf>t</ce:inf>
+                        </ce:italic>
+                        is the concentration of P after <ce:italic>t</ce:italic> years,
+                        <ce:italic>P
+                            <ce:inf>e</ce:inf>
+                        </ce:italic>
+                        is the concentration of P at equilibrium following a long period of cultivation,
+                        <ce:italic>P
+                            <ce:inf>0</ce:inf>
+                        </ce:italic>
+                        is the P concentration prior to disturbance (virgin site), and <ce:italic>k</ce:italic> is the
+                        rate of P loss per year. For Eq. <ce:cross-ref id="crf0120" refid="eq0005">(1)</ce:cross-ref>,
+                        the half-life (
+                        <ce:italic>t
+                            <ce:inf>&frac12;</ce:inf>
+                        </ce:italic>
+                        ) can be calculated as: ln2/<ce:italic>k</ce:italic>. Where 95% confidence intervals encompassed
+                        zero, changes in P were instead examined using linear regressions
+                        <ce:display>
+                            <ce:formula id="eq0010">
+                                <ce:label>(2)</ce:label>
+                                <ce:chem>P
+                                    <ce:inf>t</ce:inf>
+                                    <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>P
+                                    <ce:inf>0</ce:inf>&ndash;<ce:italic>at</ce:italic>
+                                </ce:chem>
+                            </ce:formula>
+                        </ce:display>
+                        where <ce:italic>a</ce:italic> is the average annual decrease in P. Throughout this study, no
+                        coefficient is reported (and regressions are not plotted) where the 95% confidence interval
+                        encompassed zero.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="sec0030" role="results">
+                <ce:label>3</ce:label>
+                <ce:section-title id="sect0045">Results</ce:section-title>
+                <ce:section id="sec0035">
+                    <ce:label>3.1</ce:label>
+                    <ce:section-title id="sect0050">Changes in soil P concentrations in the topsoil (0&ndash;0.1<ce:hsp
+                            sp="0.25"/>m depth)
+                    </ce:section-title>
+                    <ce:para id="par0075">Of the five soils (Supplementary Table S2), the soil total P concentration
+                        decreased significantly over time for only Thallon, with the predicted total P concentration
+                        decreasing by 42% from 484<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>kg
+                        <ce:sup>&minus;1</ce:sup>
+                        in the undisturbed soil to 282<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>kg
+                        <ce:sup>&minus;1</ce:sup>
+                        after cultivation for 23<ce:hsp sp="0.25"/>y (
+                        <ce:cross-ref id="crf0125" refid="fig0005">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0005"/>a). The predicted equilibrium value for Thallon was 249<ce:hsp
+                                sp="0.25"/>mg<ce:hsp sp="0.25"/>kg
+                        <ce:sup>&minus;1</ce:sup>
+                        (
+                        <ce:cross-ref id="crf0130" refid="tbl0005">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl0005"/>), representing an overall decrease of 49%. Particularly for
+                        Waco, it was noted that the total P concentration was highly variable, ranging from 210 to 990
+                        <ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>kg
+                        <ce:sup>&minus;1</ce:sup>
+                        (<ce:cross-ref id="crf0135" refid="fig0005">Fig. 1</ce:cross-ref>b). For the remaining four
+                        soils, Billa Billa, Cecilvale, Riverview, or Waco, overall variability was considerably lower,
+                        but no significant relationship was found between period of cultivation and total P
+                        concentration (<ce:cross-ref id="crf0140" refid="fig0005">Fig. 1</ce:cross-ref>b).
+                    </ce:para>
+                    <ce:para id="par0080">Next, changes in the various individual P pools were examined, being organic
+                        P, inorganic P, and bicarbonate-extractable P. Overall, for the undisturbed soils, the majority
+                        of soil-P was inorganic, accounting for ca. 56% of the total P in Billa Billa, 51% in Cecilvale,
+                        72% in Riverview, 72% in Thallon, and 79% in Waco (Supplementary Table S1). Interestingly,
+                        although changes in total P were not significant for Cecilvale, Riverview, or Waco
+                        (<ce:cross-ref id="crf0145" refid="fig0005">Fig. 1</ce:cross-ref>b), cultivation resulted in
+                        significant decreases in organic P for these three soils plus Thallon (
+                        <ce:cross-ref id="crf0150" refid="fig0010">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig0010"/>a). The overall magnitude of this decrease was greatest for
+                        Waco (from 144 to 92<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>kg
+                        <ce:sup>&minus;1</ce:sup>
+                        after 70<ce:hsp sp="0.25"/>y cultivation, being a 36% decrease), compared to Cecilvale (from 143
+                        to 98<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>kg
+                        <ce:sup>&minus;1</ce:sup>
+                        after 35<ce:hsp sp="0.25"/>y cultivation, being a 31% decrease), Thallon (from 114 to 89<ce:hsp
+                                sp="0.25"/>mg<ce:hsp sp="0.25"/>kg
+                        <ce:sup>&minus;1</ce:sup>
+                        after 23<ce:hsp sp="0.25"/>y cultivation, being a 22% decrease), and Riverview (from 89 to 71
+                        <ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>kg
+                        <ce:sup>&minus;1</ce:sup>
+                        after 20<ce:hsp sp="0.25"/>y cultivation, being a 20% decrease) (<ce:cross-ref id="crf0155"
+                                                                                                       refid="fig0010">
+                            Fig. 2</ce:cross-ref>a and <ce:cross-ref id="crf0160" refid="tbl0005">Table 1</ce:cross-ref>).
+                        In contrast to these observations for organic P, cultivation caused concentrations of inorganic
+                        P to decrease significantly in Thallon (45% after 23<ce:hsp sp="0.25"/>y, from 318 to 175<ce:hsp
+                                sp="0.25"/>mg<ce:hsp sp="0.25"/>kg<ce:sup>&minus;1</ce:sup>, <ce:cross-ref id="crf0165"
+                                                                                                           refid="fig0010">
+                            Fig. 2</ce:cross-ref>c), but not in Billa Billa, Cecilvale, Riverview, or Waco
+                        (<ce:cross-ref id="crf0170" refid="fig0010">Fig. 2</ce:cross-ref>d). In a similar manner,
+                        bicarbonate-extractable P concentrations decreased significantly in Thallon (78% after 23<ce:hsp
+                                sp="0.25"/>y, from 32 to 7.1<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>kg
+                        <ce:sup>&minus;1</ce:sup>, <ce:cross-ref id="crf0175" refid="fig0010">Fig. 2</ce:cross-ref>e)
+                        but not in the other four soils (<ce:cross-ref id="crf0180" refid="fig0010">Fig.
+                            2</ce:cross-ref>f).
+                    </ce:para>
+                    <ce:para id="par0085">Given that, at a depth of 0&ndash;0.1<ce:hsp sp="0.25"/>m, changes were most
+                        pronounced for organic P (<ce:cross-ref id="crf0185" refid="fig0010">Fig. 2</ce:cross-ref>), we
+                        examined whether any changes were also evident when also including deeper layers in the analyses
+                        (0&ndash;0.2<ce:hsp sp="0.25"/>m, 0&ndash;0.3<ce:hsp sp="0.25"/>m, and so forth). However, for
+                        these deeper soil layers, no significant relationships were found between period of cultivation
+                        and organic P concentration for any soil (data are presented in
+                        <ce:cross-ref id="crf0190" refid="fig0015">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig0015"/>
+                        for Waco, which is the soil that had the largest changes in organic P at a depth of 0&ndash;0.1
+                        <ce:hsp sp="0.25"/>m, <ce:cross-ref id="crf0195" refid="fig0010">Fig. 2</ce:cross-ref>a).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="sec0040">
+                    <ce:label>3.2</ce:label>
+                    <ce:section-title id="sect0055">Relationships between organic P and organic C</ce:section-title>
+                    <ce:para id="par0090">The C/P ratio remained relatively constant (average of 99) irrespective of the
+                        period of cultivation, with no significant trends found for any of the five soils (
+                        <ce:cross-ref id="crf0200" refid="fig0020">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig0020"/>a). For Waco, for example, the constant C/P ratio occurred
+                        because as organic P concentrations decreased over time (<ce:cross-ref id="crf0205"
+                                                                                               refid="fig0010">Fig.
+                            2</ce:cross-ref>a) there was a concomitant decrease in organic C concentrations
+                        (<ce:cross-ref id="crf0210" refid="fig0020">Fig. 4</ce:cross-ref>b). For the other soils, the
+                        decreases in organic P tended to be more modest (<ce:cross-ref id="crf0215" refid="fig0010">Fig.
+                            2</ce:cross-ref>a and b), with organic C concentrations also tended to decrease more
+                        modestly (<ce:cross-ref id="crf0220" refid="fig0020">Fig. 4</ce:cross-ref>b).
+                    </ce:para>
+                    <ce:para id="par0095">For Cecilvale and Waco, a significant linear relationship was found between
+                        organic P and organic C, whilst no relationships were found for Billa Billa, Riverview, or
+                        Thallon (<ce:cross-ref id="crf0225" refid="fig0020">Fig. 4</ce:cross-ref>c and d). For Waco, the
+                        linear regression had a slope of 87.9, representing a decrease in organic P of 87.9<ce:hsp
+                                sp="0.25"/>mg<ce:hsp sp="0.25"/>kg
+                        <ce:sup>&minus;1</ce:sup>
+                        for every 1% decrease in organic C (<ce:cross-ref id="crf0230" refid="fig0020">Fig.
+                            4</ce:cross-ref>c), that is, C/P ratio of 114. Similarly, the slope of the linear regression
+                        for Cecilvale was 107, corresponding to a decrease in organic P of 107<ce:hsp sp="0.25"/>mg
+                        <ce:hsp sp="0.25"/>kg
+                        <ce:sup>&minus;1</ce:sup>
+                        for every 1% decrease in organic C (<ce:cross-ref id="crf0235" refid="fig0020">Fig.
+                            4</ce:cross-ref>c), with a C/P ratio of 93.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="sec0045">
+                    <ce:label>3.3</ce:label>
+                    <ce:section-title id="sect0060">Grain P concentrations and removal</ce:section-title>
+                    <ce:para id="par0100">Wheat yield varied substantially depending upon soil type, being highest in
+                        Waco (average of 2.4<ce:hsp sp="0.25"/>t<ce:hsp sp="0.25"/>ha<ce:sup>&minus;1</ce:sup>) and
+                        lowest in Riverview (average of 0.55<ce:hsp sp="0.25"/>t<ce:hsp sp="0.25"/>ha
+                        <ce:sup>&minus;1</ce:sup>) (
+                        <ce:cross-ref id="crf0240" refid="fig0025">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig0025"/>a). Although there was a general trend for yield to decrease
+                        slightly with increasing period of cultivation, this trend was not significant for any soil
+                        except Waco (<ce:cross-ref id="crf0245" refid="fig0025">Fig. 5</ce:cross-ref>a). Grain P
+                        concentrations were not influenced by the period of cultivation for Cecilvale, Riverview, or
+                        Waco, with grain P concentrations remaining relatively constant irrespective of how long the
+                        soil had been cultivated for (<ce:cross-ref id="crf0250" refid="fig0025">Fig. 5</ce:cross-ref>b).
+                        However, for Billa Billa and Thallon, grain P concentrations were found to decrease
+                        significantly over time, decreasing from 0.41 to 0.30% after cultivation for 23<ce:hsp
+                                sp="0.25"/>y (<ce:cross-ref id="crf0255" refid="fig0025">Fig. 5</ce:cross-ref>b).
+                        Interestingly, for Thallon, this decrease in grain P concentrations was related to the decrease
+                        in soil concentrations of organic P (<ce:cross-ref id="crf0260" refid="fig0025">Fig.
+                            5</ce:cross-ref>c) but was not related to changes in soil inorganic P (<ce:cross-ref
+                                id="crf0265" refid="fig0025">Fig. 5</ce:cross-ref>d) or to bicarbonate-extractable P
+                        (data not presented).
+                    </ce:para>
+                    <ce:para id="par0105">Based upon their yield and grain P concentrations, the amount of P removed
+                        annually in the wheat grain ranged from 1.6<ce:hsp sp="0.25"/>kg<ce:hsp sp="0.25"/>ha
+                        <ce:sup>&minus;1</ce:sup>
+                        (Riverview) to 9.3<ce:hsp sp="0.25"/>kg<ce:hsp sp="0.25"/>ha
+                        <ce:sup>&minus;1</ce:sup>
+                        (Waco) (
+                        <ce:cross-ref id="crf0270" refid="tbl0010">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl0010"/>). Given that it was only for Thallon that the total
+                        concentration of P in the soil decreased upon increasing cultivation (<ce:cross-ref id="crf0275"
+                                                                                                            refid="fig0005">
+                            Fig. 1</ce:cross-ref>a), the average annual decrease in total soil P was calculated only for
+                        this soil as being 8.4<ce:hsp sp="0.25"/>kg<ce:hsp sp="0.25"/>ha
+                        <ce:sup>&minus;1</ce:sup>
+                        (<ce:cross-ref id="crf0280" refid="tbl0010">Table 2</ce:cross-ref>). However, the rate of
+                        decrease in total soil P was not constant but decreased over time, ranging from 18<ce:hsp
+                                sp="0.25"/>kg<ce:hsp sp="0.25"/>ha
+                        <ce:sup>&minus;1</ce:sup>
+                        upon initial cultivation to 2.8<ce:hsp sp="0.25"/>kg<ce:hsp sp="0.25"/>ha
+                        <ce:sup>&minus;1</ce:sup>
+                        after cultivation for 23<ce:hsp sp="0.25"/>y (<ce:cross-ref id="crf0285" refid="tbl0010">Table
+                            2
+                        </ce:cross-ref> and <ce:cross-ref id="crf0290" refid="fig0005">Fig. 1</ce:cross-ref>a). Finally,
+                        we calculated the average annual decrease in organic P for Cecilvale, Riverview, Thallon, and
+                        Waco, which ranged from 0.64 to 1.3<ce:hsp sp="0.25"/>kg<ce:hsp sp="0.25"/>ha
+                        <ce:sup>&minus;1</ce:sup>
+                        <ce:hsp sp="0.25"/>y
+                        <ce:sup>&minus;1</ce:sup>
+                        (<ce:cross-ref id="crf0295" refid="tbl0010">Table 2</ce:cross-ref>).
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="sec0050" role="discussion">
+                <ce:label>4</ce:label>
+                <ce:section-title id="sect0065">Discussion</ce:section-title>
+                <ce:section id="sec0055">
+                    <ce:label>4.1</ce:label>
+                    <ce:section-title id="sect0070">Long-term cropping decreases organic P</ce:section-title>
+                    <ce:para id="par0110">The effects of cultivation and product removal on soil P concentrations were
+                        examined for five soils, Billa Billa, Cecilvale, Riverview, Thallon, and Waco. Although
+                        concentrations of inorganic P were higher than those of organic P (inorganic P accounting for 51
+                        to 79% of total P), it was the organic P fraction that tended to decrease with cultivation
+                        (<ce:cross-ref id="crf0300" refid="fig0010">Fig. 2</ce:cross-ref>). For four of the five soils,
+                        concentrations of organic P decreased significantly with cultivation. Indeed, comparing only the
+                        undisturbed soils and those soils with the greatest period of cultivation, the predicted
+                        decrease in organic P was 31% for Cecilvale, 20% for Riverview, 22% for Thallon, and 36% for
+                        Waco (<ce:cross-ref id="crf0305" refid="fig0010">Fig. 2</ce:cross-ref>a). Thus, for the soils
+                        examined in the present study, organic P appears to be more sensitive to long-term cultivation
+                        and cropping practices (<ce:cross-ref id="crf0310" refid="fig0010">Fig. 2</ce:cross-ref>a&ndash;d).
+                    </ce:para>
+                    <ce:para id="par0115">These results are similar to those reported in other studies examining organic
+                        and inorganic P in long-term cropping systems, although the magnitude of the reduction in the
+                        present study is somewhat smaller than previously reported. For example, <ce:cross-ref
+                                id="crf0315" refid="bib0115">Motavalli and Miles (2002)
+                        </ce:cross-ref> examined soils of the Great Plains of North America, and found that whilst
+                        inorganic P remained constant after cultivation for 111<ce:hsp sp="0.25"/>y, concentrations of
+                        organic P decreased by ca. 75% in unfertilized soils. Similarly, <ce:cross-ref id="crf0320"
+                                                                                                       refid="bib0090">
+                            Hedley et al. (1982)
+                        </ce:cross-ref> found that 74% of the decrease in total P was due to loss of organic P, while <ce:cross-ref
+                                id="crf0325" refid="bib0070">Dalal (1997)
+                        </ce:cross-ref> found a decrease in both inorganic P (40%) and organic P (41%). Similar results
+                        have also been reported by <ce:cross-ref id="crf0330" refid="bib0015">Beck and Sanchez (1994)
+                        </ce:cross-ref> and <ce:cross-ref id="crf0335" refid="bib0160">Solomon et al.
+                            (2002)</ce:cross-ref>. This decrease in organic P is also consistent with the comparatively
+                        well-studied decrease in organic C, organic N, and organic S reported for long-term cropping
+                        systems (<ce:cross-refs id="crfs0035"
+                                                refid="bib0020 bib0065 bib0125 bib0025 bib0110 bib0075 bib0095 bib0100">
+                            Bettany et al., 1980; Dalal and Mayer, 1986c; Murty et al., 2002; Bhupinderpal et al., 2004;
+                            Malo et al., 2005; Don et al., 2011; Kopittke et al., 2016, 2017</ce:cross-refs>). For
+                        example, in a meta-analysis, <ce:cross-ref id="crf0340" refid="bib0100">Kopittke et al. (2017)
+                        </ce:cross-ref> reported that long-term conversion of native vegetation to cropping land results
+                        in an average 42% decrease in both C and N.
+                    </ce:para>
+                    <ce:para id="par0120">In the present study, the predicted decrease in organic P for the four soils
+                        ranged from 20% for the Alfisol (Riverview) and from 22% (Thallon) to 36% (Waco) for the
+                        Vertisols. Thus, despite the range in textures (clay content ranging from 18 to
+                        72%, <ce:cross-ref id="crf0345" refid="bib0095">Kopittke et al. (2016)</ce:cross-ref>), there
+                        was no apparent trend in the decrease in organic P across these four soils. Indeed, the decrease
+                        in organic P in these low production (low rainfall) soils was substantially less than the median
+                        reduction in P stocks reported in the global meta-analysis of <ce:cross-ref id="crf0350"
+                                                                                                    refid="bib0100">
+                            Kopittke et al. (2017)</ce:cross-ref>. These authors identified six previous studies
+                        examining the changes in organic P stocks upon long-term conversion of virgin vegetation to
+                        traditional cropping systems, with the median decrease in organic P across these previous
+                        studies being 50%. Thus, it seems that the decrease in organic P stocks is likely related to a
+                        range of factors (for example, climatic factors), although the broad importance of soil-related
+                        factors cannot be discounted.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="sec0060">
+                    <ce:label>4.2</ce:label>
+                    <ce:section-title id="sect0075">Changes in inorganic P and total P</ce:section-title>
+                    <ce:para id="par0125">Overall, changes in inorganic P varied between soils, with concentrations
+                        decreasing significantly (Thallon), remaining relatively constant (Billa Billa, Cecilvale, and
+                        Riverview), or being highly variable (Waco) (<ce:cross-ref id="crf0355" refid="fig0010">Fig.
+                            2</ce:cross-ref>c and d). First, we considered Billa Billa, Cecilvale, and Riverview, where
+                        concentrations of inorganic P remained relatively constant. This observation for these three
+                        soils is in general agreement with previous studies that have found that long-term cropping
+                        often does not have a substantial impact on inorganic P. For example, studying soils from the
+                        Great Plains of North America, <ce:cross-ref id="crf0360" refid="bib0185">Tiessen et al.
+                            (1982)
+                        </ce:cross-ref> reported that inorganic P concentrations changed by +17 to &minus;6.2% in soils
+                        cultivated for up to 90<ce:hsp sp="0.25"/>y, which was in contrast to organic P concentrations
+                        which changed by &minus;15 to &minus;24%. Similarly, <ce:cross-ref id="crf0365" refid="bib0035">
+                            Bowman et al. (1990)
+                        </ce:cross-ref> reported that inorganic P concentrations changed by &minus;11% after cropping
+                        for 60<ce:hsp sp="0.25"/>y (organic P concentrations changed by &minus;63%), whilst <ce:cross-ref
+                                id="crf0370" refid="bib0070">Dalal (1997)
+                        </ce:cross-ref> found that both inorganic and organic P changed by ca. 40%. It is noteworthy,
+                        however, that in systems receiving appreciable inorganic P fertilizers, soil concentrations of
+                        inorganic P can increase markedly (<ce:cross-ref id="crf0375" refid="bib0005">Agbenin and
+                            Goladi, 1997</ce:cross-ref>). Given that total P concentrations were dominated by inorganic
+                        P (Supplementary Table S1), it is not surprising that changes in total P (<ce:cross-ref
+                                id="crf0380" refid="fig0005">Fig. 1</ce:cross-ref>) for Billa Billa, Cecilvale, and
+                        Riverview were similar to those described above for inorganic P (<ce:cross-ref id="crf0385"
+                                                                                                       refid="fig0010">
+                            Fig. 2</ce:cross-ref>c and d). Furthermore, although concentrations of organic P decreased
+                        significantly, because the contribution of organic P to the total concentration of P was
+                        comparatively small, the predicted decreases in organic P (18 to 52
+                        <ce:hsp sp="0.25"/>
+                        mg/kg, <ce:cross-ref id="crf0390" refid="fig0010">Fig. 2</ce:cross-ref>a) represented only a
+                        modest change in the total P (5.5&ndash;14% of total P).
+                    </ce:para>
+                    <ce:para id="par0130">Next, closer attention was given to the inorganic P and total P concentrations
+                        for Thallon (for which inorganic and total P concentrations decreased significantly) and for
+                        Waco (for which inorganic and total P concentrations appeared to have high variability)
+                        (<ce:cross-refs id="crfs0040" refid="fig0005 fig0010">Figs. 1 and 2</ce:cross-refs>). For
+                        Thallon, the large decreases in soil P could not be explained by product removal, with the
+                        average decrease in total soil P (8.4<ce:hsp sp="0.25"/>kg<ce:hsp sp="0.25"/>ha
+                        <ce:sup>&minus;1</ce:sup>
+                        <ce:hsp sp="0.25"/>y<ce:sup>&minus;1</ce:sup>) being approximately double the amount being
+                        removed in the grain (4.7<ce:hsp sp="0.25"/>kg<ce:hsp sp="0.25"/>ha
+                        <ce:sup>&minus;1</ce:sup>
+                        <ce:hsp sp="0.25"/>y<ce:sup>&minus;1</ce:sup>, <ce:cross-ref id="crf0395" refid="tbl0010">Table
+                            2</ce:cross-ref>, also see later discussion). Coupled with the high variability in inorganic
+                        P for Waco, we investigated whether these changes in inorganic (and total) P concentrations
+                        could indeed be attributed to cropping, or if they were actually due to underlying variability
+                        between the various fields used to collect the samples. Given that samples had been collected
+                        from up to seven undisturbed sites at each of the five locations (with the various undisturbed
+                        sites designed to identify any potential changes across the landscape between cultivated sites),
+                        we examined variation between the undisturbed samples (Supplementary Fig. S1). Firstly, for
+                        these undisturbed sites, it was noted that variation in inorganic P was substantially greater
+                        than for organic P, particularly for Thallon and Waco. For example, at Thallon, organic P
+                        concentrations varied by 36% between sites, whilst inorganic P concentrations differed by 120%
+                        (Supplementary Fig. S1). Next, given that samples had been collected from multiple undisturbed
+                        sites at each of the five locations, we calculated relative changes in inorganic and organic P
+                        concentrations by comparing values from cropped soils with only the undisturbed closest to that
+                        particular field. [This is in contrast to the absolute concentrations presented in<ce:cross-refs
+                                id="crfs0045" refid="fig0005 fig0010 fig0015 fig0020">Figs. 1&ndash;4</ce:cross-refs>,
+                        where values for undisturbed (0 y cultivation) soils were calculated as the average across all
+                        undisturbed sites from that location]. This data showed that across all five locations (Billa
+                        Billa, Cecilvale, Riverview, Thallon, and Waco), inorganic P concentrations tended to remain
+                        constant while organic P concentrations decreased (Supplementary Fig. S2 and Supplementary Fig.
+                        S3), thereby confirming our general observations from absolute values (<ce:cross-refs
+                                id="crfs0050" refid="fig0005 fig0010">Figs. 1 and 2</ce:cross-refs>).
+                    </ce:para>
+                    <ce:para id="par0135">Based upon these observations, we hypothesise that for both Thallon and Waco,
+                        the observed changes in inorganic P upon cultivation (<ce:cross-refs id="crfs0055"
+                                                                                             refid="fig0005 fig0010">
+                            Figs. 1 and 2</ce:cross-refs>) were actually experimental &lsquo;artefacts&rsquo;, and that
+                        these changes were not solely associated cropping <ce:italic>per se</ce:italic>. Specifically,
+                        we propose that particularly for Thallon and Waco, variations in the underlying soil material
+                        between fields (with fields representing different periods of cultivation) resulted in
+                        concomitant changes in soil inorganic P concentrations. For Thallon, this change appeared to be
+                        systematic and was associated with the progressive conversion of land to cropping along a
+                        gradient. The Thallon soil is a flood-plain alluvium, which has presumably been affected by
+                        variation in sediment sources, delivering parent materials of different P concentrations.
+                        Importantly, however, these observations regarding the variability in inorganic P in Thallon and
+                        Waco is in contrast to that observed for organic P in these same samples (<ce:cross-ref
+                                id="crf0400" refid="fig0010">Fig. 2</ce:cross-ref>) and for organic C, N, and S in these
+                        same soils (<ce:cross-refs id="crfs0060" refid="bib0060 bib0065 bib0095">Dalal and Mayer, 1986b,
+                            1986c; Kopittke et al., 2016</ce:cross-refs>). Specifically, the data suggest that for
+                        elements closely associated with organic matter (organic P, but also C, N, and organic S), the
+                        current sampling approach has provided important data, but for elements associated more closely
+                        with underlying parent material, care needs to be taken in case of associated variability.
+                        Indeed, it is known that whilst organic matter is closely related to climatic conditions
+                        (<ce:cross-ref id="crf0405" refid="bib0135">Parton et al., 1987</ce:cross-ref>) (which, for the
+                        present study, would have negligible variability between fields) particularly in dry
+                        environments like Australia, inorganic P concentrations depend largely upon the underlying
+                        parent material.
+                    </ce:para>
+                    <ce:para id="par0140">Finally, it should also be noted that it has been reported that the total P
+                        concentrations are highest in the most easily dispersed clay fraction (<ce:cross-ref
+                                id="crf0410" refid="bib0155">Scalenghe et al., 2007</ce:cross-ref>). In such studies,
+                        selective erosion would result in the loss of the soil fraction with the highest P
+                        concentrations. However, for the sites examined in the present study, erosion rates were likely
+                        to low, given the low slopes and stability of these soils (<ce:cross-ref id="crf0415"
+                                                                                                 refid="bib0055">Dalal
+                            and Mayer, 1986a</ce:cross-ref>). Furthermore, the 12 European soils examined by <ce:cross-ref
+                                id="crf0420" refid="bib0155">Scalenghe et al. (2007)
+                        </ce:cross-ref> were of high fertility and were overfertilized, which contrasts with the current
+                        systems which are inherently of low fertility and also have a negative P budget (Supplementary
+                        Table S1 and <ce:cross-ref id="crf0425" refid="tbl0010">Table 2</ce:cross-ref>).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="sec0065">
+                    <ce:label>4.3</ce:label>
+                    <ce:section-title id="sect0080">Mineralisation of organic P</ce:section-title>
+                    <ce:para id="par0145">For Cecilvale, Riverview, Thallon, and Waco, organic P concentrations
+                        decreased significantly over time (<ce:cross-ref id="crf0430" refid="fig0010">Fig.
+                            2</ce:cross-ref>a). However, despite these decreases in organic P, the C/P ratio was &le;177
+                        and did not change significantly over time in any of the five soils (<ce:cross-ref id="crf0435"
+                                                                                                           refid="fig0020">
+                            Fig. 4</ce:cross-ref>a). Indeed, for all soils, it was observed that there was a concomitant
+                        reduction in organic C concentrations (<ce:cross-ref id="crf0440" refid="fig0020">Fig.
+                            4</ce:cross-ref>b). However, the relationship between organic P and organic C was
+                        significant only for Cecilvale and Waco (<ce:cross-ref id="crf0445" refid="fig0020">Fig.
+                            4</ce:cross-ref>c and d), indicating that, for these two soils, organic P is protected
+                        within the soil organic matter in a manner similar to the organic C. This difference between
+                        that observed for Cecilvale and Waco and the three other soils (<ce:cross-ref id="crf0450"
+                                                                                                      refid="fig0020">
+                            Fig. 4</ce:cross-ref>c and d) could not be attributed to differences in the C/P ratio, with
+                        similar values in Billa Billa, Riverview, and Waco (although Thallon had somewhat lower values)
+                        (<ce:cross-ref id="crf0455" refid="fig0020">Fig. 4</ce:cross-ref>a). However, it was noted that
+                        Waco did indeed have the highest organic C content (Supplementary Table S1) and the largest
+                        decrease in organic C (<ce:cross-ref id="crf0460" refid="fig0020">Fig. 4</ce:cross-ref>b),
+                        albeit it was also cultivated for much longer period than the other soils.
+                    </ce:para>
+                    <ce:para id="par0150">This variable effect of cropping on C/P ratios is similar to that reported
+                        previously. <ce:cross-ref id="crf0465" refid="bib0185">Tiessen et al. (1982)</ce:cross-ref> found
+                        that for organic P after cultivation for up to 90<ce:hsp sp="0.25"/>y, C/P ratios decreased from
+                        74 to 48. In contrast, <ce:cross-ref id="crf0470" refid="bib0035">Bowman et al. (1990)
+                        </ce:cross-ref> found that for the surface 0&ndash;15<ce:hsp sp="0.25"/>cm, cropping for up to
+                        60<ce:hsp sp="0.25"/>y had no impact on C/P ratios, which were similar in both the virgin soil
+                        (C/P ratio of 97) and soil cropped for 60<ce:hsp sp="0.25"/>y (C/P ratio of 96). Similarly, for
+                        the unfertilized soil studying by <ce:cross-ref id="crf0475" refid="bib0005">Agbenin and Goladi
+                            (1997)</ce:cross-ref>, cropping for 45<ce:hsp sp="0.25"/>y did not change the C/P ratio,
+                        with the ratio being 21 in the undisturbed soil and 23 in the cropped soil. It has recently been
+                        reported that P transformations in low-P soils can reduce both soil organic C and the C/P ratio,
+                        potentially suggesting that crops growing in low-P soils may deplete the soil organic matter
+                        from protected mineral-organic associations (<ce:cross-ref id="crf0480" refid="bib0145">Romany&agrave;
+                            et al., 2017</ce:cross-ref>). However, in the present study, C/P ratios did not appear to
+                        change with long-term cropping (<ce:cross-ref id="crf0485" refid="fig0020">Fig. 4</ce:cross-ref>a).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="sec0070">
+                    <ce:label>4.4</ce:label>
+                    <ce:section-title id="sect0085">Availability and concentration in wheat grain</ce:section-title>
+                    <ce:para id="par0155">For the present study, as a result of the low yields (0.55&ndash;2.4<ce:hsp
+                            sp="0.25"/>t<ce:hsp sp="0.25"/>ha
+                        <ce:sup>&minus;1</ce:sup>
+                        <ce:hsp sp="0.25"/>y<ce:sup>&minus;1</ce:sup>), the rate of P removal in grain (1.6&ndash;9.3
+                        <ce:hsp sp="0.25"/>kg<ce:hsp sp="0.25"/>ha
+                        <ce:sup>&minus;1</ce:sup>
+                        <ce:hsp sp="0.25"/>y<ce:sup>&minus;1</ce:sup>, <ce:cross-ref id="crf0490" refid="tbl0010">Table
+                            2</ce:cross-ref>) was low relative to those published elsewhere (for example,
+                        see <ce:cross-ref id="crf0495" refid="bib0115">Motavalli and Miles, 2002</ce:cross-ref>).
+                        Regardless, it was noted that the rate of P removal in grain generally exceeded the P supplied
+                        through mineralisation of organic P (<ce:cross-ref id="crf0500" refid="tbl0010">Table
+                            2</ce:cross-ref>), with the balance presumably supplied from the soil&rsquo;s inorganic P
+                        reserves. Furthermore, the rate of P removal in these low-input systems exceeded the rate at
+                        which P fertilizers were added (Supplementary Table S1), demonstrating the need to consider
+                        long-term P-fertilization to ensure adequate P nutrition of the crop. This is in agreement with
+                        the negative P budgets reported for much of Australia (<ce:cross-ref id="crf0505"
+                                                                                             refid="bib0130">NLWRA,
+                            2001</ce:cross-ref>). Globally, however, total inputs of P to agricultural systems exceed
+                        removal in agricultural products (<ce:cross-ref id="crf0510" refid="bib0030">Bouwman et al.,
+                            2009</ce:cross-ref>). Regardless, care must also be taken to ensure that the application of
+                        P fertilizers does not result in eutrophication, with the erosion of P-enriched soils being of
+                        major concern (<ce:cross-ref id="crf0515" refid="bib0175">Steffen et al., 2015</ce:cross-ref>).
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="sec0075" role="conclusion">
+                <ce:label>5</ce:label>
+                <ce:section-title id="sect0090">Conclusion</ce:section-title>
+                <ce:para id="par0160">The present study has shown that in low-input systems, long-term cropping can
+                    result in decreases in soil organic P. Specifically, for Cecilvale, Riverview, Thallon, and Waco,
+                    concentrations of organic P decreased with increasing period of cultivation, with concentrations
+                    decreasing by 20&ndash;36%. Despite the range in textures across the soils examined (clay content
+                    ranging from 18 to 72%), there was no apparent trend in the decrease in organic P across the various
+                    soils. Concentrations of inorganic P generally remained relatively constant, although concentrations
+                    decreased significantly in Thallon and were highly variable in Waco. It is hypothesised that, for
+                    these two soils, measured changes in inorganic P were confounded by variations in the underlying
+                    parent material. Regardless, despite the progressive decrease in soil organic P, the C/P ratio
+                    remained relatively constant due to the concomitant loss of organic C. Concentrations of P in wheat
+                    grain were generally stable, decreasing significantly only in Billa Billa and Thallon. Finally,
+                    although the rate of P removal in grain was low (1.6&ndash;9.3<ce:hsp sp="0.25"/>kg<ce:hsp
+                            sp="0.25"/>ha
+                    <ce:sup>&minus;1</ce:sup>
+                    <ce:hsp sp="0.25"/>y<ce:sup>&minus;1</ce:sup>), the rate of removal exceeded inputs from
+                    P-containing fertilizers and thus there is a need to consider the long-term P-fertilization to
+                    ensure adequate P nutrition.
+                </ce:para>
+            </ce:section>
+        </ce:sections>
+        <ce:acknowledgment id="ack0005">
+            <ce:section-title id="sect0095">Acknowledgements</ce:section-title>
+            <ce:para id="par0165">This work was supported by
+                the <!--<query id="Q4">One or more sponsor names and the sponsor country identifier may have been edited to a standard format that enables better searching and identification of your article. Please check and correct if necessary.</query>-->
+                <ce:grant-sponsor id="gs0005" sponsor-id="https://doi.org/10.13039/501100000923">Australian Research
+                    Council (ARC)
+                </ce:grant-sponsor>
+                through a Future Fellowship for Peter Kopittke (<ce:grant-number refid="gs0005">
+                    FT120100277</ce:grant-number>).
+            </ce:para>
+        </ce:acknowledgment>
+        <ce:appendices>
+            <ce:section id="sec0080" view="compact-standard">
+                <ce:label>Appendix A</ce:label>
+                <ce:section-title id="sect0100">Supplementary data</ce:section-title>
+                <ce:para id="par0170">Supplementary data associated with this article can be found, in the online
+                    version, at <ce:inter-ref id="intr0005" xlink:href="https://doi.org/10.1016/j.agee.2017.10.018">
+                        https://doi.org/10.1016/j.agee.2017.10.018</ce:inter-ref>.
+                </ce:para>
+            </ce:section>
+            <ce:section id="sec0085" view="extended">
+                <ce:label>Appendix A</ce:label>
+                <ce:section-title id="sect0105">Supplementary data</ce:section-title>
+                <ce:para id="par0175">The following is Supplementary data to this article:
+                    <ce:display>
+                        <ce:e-component id="upi0005">
+                            <ce:link xlink:href="pii:S0167880917304644/mmc1"
+                                     xlink:role="http://data.Publisher.com/vocabulary/PublisherContentTypes/46.1"
+                                     locator="mmc1"/>
+                        </ce:e-component>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+        </ce:appendices>
+    </body>
+    <tail>
+        <ce:bibliography id="bibl0005">
+            <ce:section-title id="sect0110">References</ce:section-title>
+            <ce:bibliography-sec id="bibs0005">
+                <ce:bib-reference id="bib0005">
+                    <ce:label>Agbenin and Goladi, 1997</ce:label>
+                    <sb:reference id="sbref0005">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>J.O.</ce:given-name>
+                                    <ce:surname>Agbenin</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.T.</ce:given-name>
+                                    <ce:surname>Goladi</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Carbon, nitrogen and phosphorus dynamics under continuous cultivation as
+                                    influenced by farmyard manure and inorganic fertilizers in the savanna of northern
+                                    Nigeria
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Agric. Ecosyst. Environ.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>63</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1997</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>17</sb:first-page>
+                                <sb:last-page>24</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0010">
+                    <ce:label>Batjes, 1997</ce:label>
+                    <sb:reference id="sbref0010">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>N.H.</ce:given-name>
+                                    <ce:surname>Batjes</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>A world dataset of derived soil properties by FAO&ndash;UNESCO soil unit
+                                    for global modelling
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Soil Use Manage.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>13</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1997</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>9</sb:first-page>
+                                <sb:last-page>16</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0015">
+                    <ce:label>Beck and Sanchez, 1994</ce:label>
+                    <sb:reference id="sbref0015">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>M.A.</ce:given-name>
+                                    <ce:surname>Beck</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>P.A.</ce:given-name>
+                                    <ce:surname>Sanchez</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Soil phosphorus fraction dynamics during 18 years of cultivation on a
+                                    Typic Paleudult
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Soil Sci. Soc. Am. J.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>58</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1994</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>1424</sb:first-page>
+                                <sb:last-page>1431</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0020">
+                    <ce:label>Bettany et al., 1980</ce:label>
+                    <sb:reference id="sbref0020">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>J.R.</ce:given-name>
+                                    <ce:surname>Bettany</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>S.</ce:given-name>
+                                    <ce:surname>Saggar</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.W.B.</ce:given-name>
+                                    <ce:surname>Stewart</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Comparison of the amounts and forms of sulfur in soil organic matter
+                                    fractions after 65 years of cultivation
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Soil Sci. Soc. Am. J.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>44</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1980</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>70</sb:first-page>
+                                <sb:last-page>75</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0025">
+                    <ce:label>Bhupinderpal et al., 2004</ce:label>
+                    <sb:reference id="sbref0025">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>S.</ce:given-name>
+                                    <ce:surname>Bhupinderpal</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>M.J.</ce:given-name>
+                                    <ce:surname>Hedley</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>S.</ce:given-name>
+                                    <ce:surname>Saggar</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>G.S.</ce:given-name>
+                                    <ce:surname>Francis</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Chemical fractionation to characterize changes in sulphur and carbon in
+                                    soil caused by management
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Eur. J. Soil Sci.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>55</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2004</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>79</sb:first-page>
+                                <sb:last-page>90</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0030">
+                    <ce:label>Bouwman et al., 2009</ce:label>
+                    <sb:reference id="sbref0030">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>A.F.</ce:given-name>
+                                    <ce:surname>Bouwman</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>A.H.W.</ce:given-name>
+                                    <ce:surname>Beusen</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>G.</ce:given-name>
+                                    <ce:surname>Billen</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Human alteration of the global nitrogen and phosphorus soil balances for
+                                    the period 1970&ndash;2050
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Global Biogeochem. Cy.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>23</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2009</sb:date>
+                            </sb:issue>
+                        </sb:host>
+                        <sb:comment>(n/a&ndash;n/a)</sb:comment>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0035">
+                    <ce:label>Bowman et al., 1990</ce:label>
+                    <sb:reference id="sbref0035">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>R.</ce:given-name>
+                                    <ce:surname>Bowman</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>Reeder</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>R.</ce:given-name>
+                                    <ce:surname>Lober</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Changes in soil properties in a Central Plains rangeland soil after 3, 20,
+                                    and 60 years of cultivation
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Soil Sci.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>150</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1990</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>851</sb:first-page>
+                                <sb:last-page>857</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0040">
+                    <ce:label>Cakmak, 2002</ce:label>
+                    <sb:reference id="sbref0040">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>I.</ce:given-name>
+                                    <ce:surname>Cakmak</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Plant nutrition research: priorities to meet human needs for food in
+                                    sustainable ways
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Plant Soil</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>247</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2002</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>3</sb:first-page>
+                                <sb:last-page>24</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0045">
+                    <ce:label>Colwell, 1963</ce:label>
+                    <sb:reference id="sbref0045">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>J.D.</ce:given-name>
+                                    <ce:surname>Colwell</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>The estimation of phosphorus fertilizer requirements of wheat in southern
+                                    New South Wales by soil analysis
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Aust. J. Exp. Agric. Anim. Hus.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>3</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1963</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>190</sb:first-page>
+                                <sb:last-page>198</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0050">
+                    <ce:label>Crews and Brookes, 2014</ce:label>
+                    <sb:reference id="sbref0050">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>T.E.</ce:given-name>
+                                    <ce:surname>Crews</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>P.C.</ce:given-name>
+                                    <ce:surname>Brookes</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Changes in soil phosphorus forms through time in perennial versus annual
+                                    agroecosystems
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Agric. Ecosyst. Environ.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>184</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2014</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>168</sb:first-page>
+                                <sb:last-page>181</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0055">
+                    <ce:label>Dalal and Mayer, 1986a</ce:label>
+                    <sb:reference id="sbref0055">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>R.C.</ce:given-name>
+                                    <ce:surname>Dalal</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>R.J.</ce:given-name>
+                                    <ce:surname>Mayer</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Long-term trends in fertility of soils under continuous cultivation and
+                                    cereal cropping in southern Queensland 1. Overall changes in soil properties and
+                                    trends in winter cereal yields
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Aust. J. Soil Res.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>24</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1986</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>265</sb:first-page>
+                                <sb:last-page>279</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0060">
+                    <ce:label>Dalal and Mayer, 1986b</ce:label>
+                    <sb:reference id="sbref0060">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>R.C.</ce:given-name>
+                                    <ce:surname>Dalal</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>R.J.</ce:given-name>
+                                    <ce:surname>Mayer</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Long-term trends in fertility of soils under continuous cultivation and
+                                    cereal cropping in southern Queensland 2. Total organic-carbon and its rate of loss
+                                    from the soil-profile
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Aust. J. Soil Res.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>24</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1986</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>281</sb:first-page>
+                                <sb:last-page>292</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0065">
+                    <ce:label>Dalal and Mayer, 1986c</ce:label>
+                    <sb:reference id="sbref0065">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>R.C.</ce:given-name>
+                                    <ce:surname>Dalal</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>R.J.</ce:given-name>
+                                    <ce:surname>Mayer</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Long-term trends in fertility of soils under continuous cultivation and
+                                    cereal cropping in southern Queensland 5. Rate of loss of total nitrogen from the
+                                    soil-profile and changes in carbon &ndash; nitrogen ratios
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Aust. J. Soil Res.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>24</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1986</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>493</sb:first-page>
+                                <sb:last-page>504</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0070">
+                    <ce:label>Dalal, 1997</ce:label>
+                    <sb:reference id="sbref0070">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>R.C.</ce:given-name>
+                                    <ce:surname>Dalal</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Long-term phosphorus trends in Vertisols under continuous cereal
+                                    cropping
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Soil Res.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>35</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1997</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>327</sb:first-page>
+                                <sb:last-page>340</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0075">
+                    <ce:label>Don et al., 2011</ce:label>
+                    <sb:reference id="sbref0075">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>A.</ce:given-name>
+                                    <ce:surname>Don</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>Schumacher</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>A.</ce:given-name>
+                                    <ce:surname>Freibauer</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Impact of tropical land-use change on soil organic carbon stocks &ndash;a
+                                    meta-analysis
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Glob. Change Biol.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>17</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2011</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>1658</sb:first-page>
+                                <sb:last-page>1670</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0080">
+                    <ce:label>EFMA, 2000</ce:label>
+                    <sb:reference id="sbref0080">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:surname>EFMA</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Phosphorus Essential Element for Food Production</sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:book>
+                                <sb:date>2000</sb:date>
+                                <sb:publisher>
+                                    <sb:name>European Fertilizer Manufacturers Association (EFMA)</sb:name>
+                                    <sb:location>Brussels</sb:location>
+                                </sb:publisher>
+                            </sb:book>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0085">
+                    <ce:label>Gilbert, 2009</ce:label>
+                    <sb:reference id="sbref0085">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>N.</ce:given-name>
+                                    <ce:surname>Gilbert</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Environment: the disappearing nutrient</sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Nat. News</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>461</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2009</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>716</sb:first-page>
+                                <sb:last-page>718</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0090">
+                    <ce:label>Hedley et al., 1982</ce:label>
+                    <sb:reference id="sbref0090">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>M.J.</ce:given-name>
+                                    <ce:surname>Hedley</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.W.B.</ce:given-name>
+                                    <ce:surname>Stewart</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>B.S.</ce:given-name>
+                                    <ce:surname>Chauhan</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Changes in inorganic and organic soil phosphorus fractions induced by
+                                    cultivation practices and by laboratory incubations
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Soil Sci. Soc. Am. J.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>46</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1982</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>970</sb:first-page>
+                                <sb:last-page>976</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0095">
+                    <ce:label>Kopittke et al., 2016</ce:label>
+                    <sb:reference id="sbref0095">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>P.M.</ce:given-name>
+                                    <ce:surname>Kopittke</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>R.C.</ce:given-name>
+                                    <ce:surname>Dalal</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>N.W.</ce:given-name>
+                                    <ce:surname>Menzies</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Sulfur dynamics in sub-tropical soils of Australia as influenced by
+                                    long-term cultivation
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Plant Soil</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>402</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2016</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>211</sb:first-page>
+                                <sb:last-page>219</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0100">
+                    <ce:label>Kopittke et al., 2017</ce:label>
+                    <sb:reference id="sbref0100">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>P.M.</ce:given-name>
+                                    <ce:surname>Kopittke</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>R.C.</ce:given-name>
+                                    <ce:surname>Dalal</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>D.</ce:given-name>
+                                    <ce:surname>Finn</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>N.W.</ce:given-name>
+                                    <ce:surname>Menzies</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Global changes in soil stocks of carbon, nitrogen, phosphorus, and sulphur
+                                    as influenced by long-term agricultural production
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Glob. Change Biol.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>23</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2017</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>2509</sb:first-page>
+                                <sb:last-page>2519</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0105">
+                    <ce:label>MacDonald et al., 2012</ce:label>
+                    <sb:reference id="sbref0105">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>G.K.</ce:given-name>
+                                    <ce:surname>MacDonald</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>E.M.</ce:given-name>
+                                    <ce:surname>Bennett</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>Z.E.</ce:given-name>
+                                    <ce:surname>Taranu</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>The influence of time, soil characteristics, and land-use history on soil
+                                    phosphorus legacies: a global meta-analysis
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Glob. Change Biol.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>18</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2012</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>1904</sb:first-page>
+                                <sb:last-page>1917</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0110">
+                    <ce:label>Malo et al., 2005</ce:label>
+                    <sb:reference id="sbref0110">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>D.D.</ce:given-name>
+                                    <ce:surname>Malo</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>T.E.</ce:given-name>
+                                    <ce:surname>Schumacher</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.J.</ce:given-name>
+                                    <ce:surname>Doolittle</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Long-term cultivation impacts on selected soil properties in the northern
+                                    Great Plains
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Soil Tillage Res.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>81</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2005</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>277</sb:first-page>
+                                <sb:last-page>291</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0115">
+                    <ce:label>Motavalli and Miles, 2002</ce:label>
+                    <sb:reference id="sbref0115">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>P.P.</ce:given-name>
+                                    <ce:surname>Motavalli</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>R.J.</ce:given-name>
+                                    <ce:surname>Miles</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Soil phosphorus fractions after 111 years of animal manure and fertilizer
+                                    applications
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Biol. Fertil. Soils</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>36</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2002</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>35</sb:first-page>
+                                <sb:last-page>42</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0120">
+                    <ce:label>Murphy and Riley, 1962</ce:label>
+                    <sb:reference id="sbref0120">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>Murphy</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.P.</ce:given-name>
+                                    <ce:surname>Riley</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>A modified single solution method for the determination of phosphate in
+                                    natural waters
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Anal. Chim. Acta</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>27</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1962</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>31</sb:first-page>
+                                <sb:last-page>36</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0125">
+                    <ce:label>Murty et al., 2002</ce:label>
+                    <sb:reference id="sbref0125">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>D.</ce:given-name>
+                                    <ce:surname>Murty</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>M.U.F.</ce:given-name>
+                                    <ce:surname>Kirschbaum</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>R.E.</ce:given-name>
+                                    <ce:surname>McMurtrie</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>McGilvray</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Does conversion of forest to agricultural land change soil carbon and
+                                    nitrogen?: A review of the literature
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Glob. Change Biol.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>8</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2002</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>105</sb:first-page>
+                                <sb:last-page>123</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0130">
+                    <ce:label>NLWRA, 2001</ce:label>
+                    <sb:reference id="sbref0130">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:surname>NLWRA</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Nutrient Balances in the Intensive Land Use Zone: National Land and Water
+                                    Resources Audit
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:book>
+                                <sb:date>2001</sb:date>
+                                <sb:publisher>
+                                    <sb:name>Commonwealth of Australia</sb:name>
+                                    <sb:location>Canberra, Australia</sb:location>
+                                </sb:publisher>
+                            </sb:book>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0135">
+                    <ce:label>Parton et al., 1987</ce:label>
+                    <sb:reference id="sbref0135">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>W.J.</ce:given-name>
+                                    <ce:surname>Parton</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>D.S.</ce:given-name>
+                                    <ce:surname>Schimel</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>C.V.</ce:given-name>
+                                    <ce:surname>Cole</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>D.S.</ce:given-name>
+                                    <ce:surname>Ojima</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Analysis of factors controlling soil organic matter levels in Great Plains
+                                    grasslands
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Soil Sci. Soc. Am. J.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>51</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1987</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>1173</sb:first-page>
+                                <sb:last-page>1179</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0140">
+                    <ce:label>Rayment and Lyons, 2011</ce:label>
+                    <sb:reference id="sbref0140">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>G.E.</ce:given-name>
+                                    <ce:surname>Rayment</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>D.J.</ce:given-name>
+                                    <ce:surname>Lyons</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Soil Chemical Methods: Australasia</sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:book>
+                                <sb:date>2011</sb:date>
+                                <sb:publisher>
+                                    <sb:name>CSIRO Publishing</sb:name>
+                                    <sb:location>Collingwood, Australia</sb:location>
+                                </sb:publisher>
+                            </sb:book>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0145">
+                    <ce:label>Romany&agrave; et al., 2017</ce:label>
+                    <sb:reference id="sbref0145">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>Romany&agrave;</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.M.</ce:given-name>
+                                    <ce:surname>Blanco-Moreno</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>F.X.</ce:given-name>
+                                    <ce:surname>Sans</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Phosphorus mobilization in low-P arable soils may involve soil organic C
+                                    depletion
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Soil Biol. Biochem.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>113</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2017</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>250</sb:first-page>
+                                <sb:last-page>259</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0150">
+                    <ce:label>Saunders and Williams, 1955</ce:label>
+                    <sb:reference id="sbref0150">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>W.M.H.</ce:given-name>
+                                    <ce:surname>Saunders</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>E.G.</ce:given-name>
+                                    <ce:surname>Williams</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Observations on the determination of total organic phosphorus in soils
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>J. Soil Sci.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>6</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1955</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>254</sb:first-page>
+                                <sb:last-page>267</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0155">
+                    <ce:label>Scalenghe et al., 2007</ce:label>
+                    <sb:reference id="sbref0155">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>R.</ce:given-name>
+                                    <ce:surname>Scalenghe</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>A.C.</ce:given-name>
+                                    <ce:surname>Edwards</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>E.</ce:given-name>
+                                    <ce:surname>Barberis</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Phosphorus loss in overfertilized soils: the selective P partitioning and
+                                    redistribution between particle size separates
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Eur. J. Agron.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>27</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2007</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>72</sb:first-page>
+                                <sb:last-page>80</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0160">
+                    <ce:label>Solomon et al., 2002</ce:label>
+                    <sb:reference id="sbref0160">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>D.</ce:given-name>
+                                    <ce:surname>Solomon</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>Lehmann</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>T.</ce:given-name>
+                                    <ce:surname>Mamo</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>F.</ce:given-name>
+                                    <ce:surname>Fritzsche</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>W.</ce:given-name>
+                                    <ce:surname>Zech</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Phosphorus forms and dynamics as influenced by land use changes in the
+                                    sub-humid Ethiopian highlands
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Geoderma</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>105</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2002</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>21</sb:first-page>
+                                <sb:last-page>48</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0165">
+                    <ce:label>Stanford and Smith, 1972</ce:label>
+                    <sb:reference id="sbref0165">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>G.</ce:given-name>
+                                    <ce:surname>Stanford</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>S.J.</ce:given-name>
+                                    <ce:surname>Smith</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Nitrogen mineralization potentials of soils</sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Soil Sci. Soc. Am. J.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>36</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1972</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>465</sb:first-page>
+                                <sb:last-page>472</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0170">
+                    <ce:label>Steen, 1998</ce:label>
+                    <sb:reference id="sbref0170">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>I.</ce:given-name>
+                                    <ce:surname>Steen</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Phosphorus availability in the 21st century: management of a non-renewable
+                                    resource
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Phosphorus Potassium</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>217</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1998</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>25</sb:first-page>
+                                <sb:last-page>31</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0175">
+                    <ce:label>Steffen et al., 2015</ce:label>
+                    <sb:reference id="sbref0175">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>W.</ce:given-name>
+                                    <ce:surname>Steffen</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>K.</ce:given-name>
+                                    <ce:surname>Richardson</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>Rockstr&ouml;m</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>S.E.</ce:given-name>
+                                    <ce:surname>Cornell</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>I.</ce:given-name>
+                                    <ce:surname>Fetzer</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>E.M.</ce:given-name>
+                                    <ce:surname>Bennett</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>R.</ce:given-name>
+                                    <ce:surname>Biggs</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>S.R.</ce:given-name>
+                                    <ce:surname>Carpenter</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>W.</ce:given-name>
+                                    <ce:surname>de Vries</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>C.A.</ce:given-name>
+                                    <ce:surname>de Wit</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>C.</ce:given-name>
+                                    <ce:surname>Folke</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>D.</ce:given-name>
+                                    <ce:surname>Gerten</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>Heinke</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>G.M.</ce:given-name>
+                                    <ce:surname>Mace</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>L.M.</ce:given-name>
+                                    <ce:surname>Persson</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>V.</ce:given-name>
+                                    <ce:surname>Ramanathan</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>B.</ce:given-name>
+                                    <ce:surname>Reyers</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>S.</ce:given-name>
+                                    <ce:surname>S&ouml;rlin</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Planetary boundaries: guiding human development on a changing planet
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Science</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>347</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>2015</sb:date>
+                            </sb:issue>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0180">
+                    <ce:label>Stevenson, 1999</ce:label>
+                    <sb:reference id="sbref0180">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>F.J.</ce:given-name>
+                                    <ce:surname>Stevenson</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Cycles of Soils: Carbon, Nitrogen, Phosphorus, Sulfur, Micronutrients
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:book>
+                                <sb:date>1999</sb:date>
+                                <sb:publisher>
+                                    <sb:name>John Wiley &amp; Sons</sb:name>
+                                    <sb:location>New York, NY</sb:location>
+                                </sb:publisher>
+                            </sb:book>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0185">
+                    <ce:label>Tiessen et al., 1982</ce:label>
+                    <sb:reference id="sbref0185">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>Tiessen</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.W.B.</ce:given-name>
+                                    <ce:surname>Stewart</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.R.</ce:given-name>
+                                    <ce:surname>Bettany</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Cultivation effects on the amounts and concentration of carbon nitrogen,
+                                    and phosphorus in grassland soils
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Agron. J.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>74</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1982</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>831</sb:first-page>
+                                <sb:last-page>835</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0190">
+                    <ce:label>Tiessen et al., 1983</ce:label>
+                    <sb:reference id="sbref0190">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>H.</ce:given-name>
+                                    <ce:surname>Tiessen</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.W.B.</ce:given-name>
+                                    <ce:surname>Stewart</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.O.</ce:given-name>
+                                    <ce:surname>Moir</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Changes in organic and inorganic phosphorus composition of two grassland
+                                    soils and their particle size fractions during 60&ndash;90<ce:hsp sp="0.25"/>years
+                                    of cultivation
+                                </sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>J. Soil Sci.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>34</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1983</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>815</sb:first-page>
+                                <sb:last-page>823</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0195">
+                    <ce:label>U.S. Geological Survey, 2017</ce:label>
+                    <sb:reference id="sbref0195">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:surname>U.S. Geological Survey</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>Mineral Commodity Summaries 2017</sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:book>
+                                <sb:date>2017</sb:date>
+                                <sb:publisher>
+                                    <sb:name>U.S. Geological Survey</sb:name>
+                                    <sb:location>Washington DC</sb:location>
+                                </sb:publisher>
+                            </sb:book>
+                            <sb:pages>
+                                <sb:first-page>202</sb:first-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+                <ce:bib-reference id="bib0200">
+                    <ce:label>Walker and Syers, 1976</ce:label>
+                    <sb:reference id="sbref0200">
+                        <sb:contribution>
+                            <sb:authors>
+                                <sb:author>
+                                    <ce:given-name>T.W.</ce:given-name>
+                                    <ce:surname>Walker</ce:surname>
+                                </sb:author>
+                                <sb:author>
+                                    <ce:given-name>J.K.</ce:given-name>
+                                    <ce:surname>Syers</ce:surname>
+                                </sb:author>
+                            </sb:authors>
+                            <sb:title>
+                                <sb:maintitle>The fate of phosphorus during pedogenesis</sb:maintitle>
+                            </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                            <sb:issue>
+                                <sb:series>
+                                    <sb:title>
+                                        <sb:maintitle>Geoderma</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>15</sb:volume-nr>
+                                </sb:series>
+                                <sb:date>1976</sb:date>
+                            </sb:issue>
+                            <sb:pages>
+                                <sb:first-page>1</sb:first-page>
+                                <sb:last-page>19</sb:last-page>
+                            </sb:pages>
+                        </sb:host>
+                    </sb:reference>
+                </ce:bib-reference>
+            </ce:bibliography-sec>
+        </ce:bibliography>
+    </tail>
+</article>
